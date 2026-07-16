@@ -1,2 +1,2 @@
 # ODD-Even-Multiple-of-7-and-greatest-of-3-numbers
-A Python program that checks odd/even numbers, verifies multiples of 7, and finds the greatest of three numbers using basic conditional logic.
+A beginner-friendly Python project that combines three essential programming exercises into one application: checking whether a number is odd or even, determining if a number is a multiple of 7, and finding the greatest among three numbers. This project demonstrates fundamental Python concepts such as user input, conditional statements (if, elif, else), comparison operators, logical operators, and the modulus (%) operator. It is designed to help beginners practice problem-solving and strengthen their understanding of basic programming logic.
